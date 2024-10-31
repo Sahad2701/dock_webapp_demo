@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dock_webapp_demo.iml" filepath="$PROJECT_DIR$/dock_webapp_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/dock_webapp_demo_android.iml" filepath="$PROJECT_DIR$/android/dock_webapp_demo_android.iml" />
     </modules>
   </component>
 </project>
